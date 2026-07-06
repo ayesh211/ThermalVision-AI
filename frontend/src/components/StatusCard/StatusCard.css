@@ -1,0 +1,23 @@
+.status-card {
+    background: rgba(17, 24, 39, 0.7);
+    border: 1px solid rgba(0, 229, 255, 0.15);
+    border-radius: 16px;
+    padding: 24px;
+    text-align: center;
+    transition: 0.3s;
+}
+
+.status-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow);
+}
+
+.status-card h4 {
+    color: var(--text-secondary);
+    margin-bottom: 10px;
+}
+
+.status-card h2 {
+    color: var(--primary);
+    font-family: "Orbitron", sans-serif;
+}

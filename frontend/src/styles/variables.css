@@ -1,0 +1,47 @@
+:root {
+
+    /* Background */
+
+    --background: #050816;
+
+    --background-light: #0B1120;
+
+    --card: #111827;
+
+    --card-hover: #1F2937;
+
+    /* Accent */
+
+    --primary: #00E5FF;
+
+    --primary-dark: #0099CC;
+
+    --success: #00FF88;
+
+    --warning: #FFC107;
+
+    --danger: #FF4C4C;
+
+    /* Text */
+
+    --text: #FFFFFF;
+
+    --text-secondary: #94A3B8;
+
+    /* Border */
+
+    --border: #1E293B;
+
+    /* Shadow */
+
+    --shadow: 0 0 30px rgba(0, 229, 255, .15);
+
+    /* Radius */
+
+    --radius: 16px;
+
+    /* Transition */
+
+    --transition: .3s ease;
+
+}

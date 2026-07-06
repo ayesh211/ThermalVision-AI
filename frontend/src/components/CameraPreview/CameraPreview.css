@@ -1,0 +1,51 @@
+.camera-preview {
+
+    background: rgba(17, 24, 39, .7);
+
+    border: 1px solid rgba(0, 229, 255, .15);
+
+    border-radius: 16px;
+
+    overflow: hidden;
+
+}
+
+.camera-header {
+
+    padding: 15px;
+
+    background: #0b1120;
+
+    color: var(--primary);
+
+    font-weight: 600;
+
+}
+
+.camera-box {
+
+    height: 350px;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+}
+
+.camera-placeholder {
+
+    text-align: center;
+
+    color: var(--text-secondary);
+
+    font-size: 1.2rem;
+
+}
+
+.camera-placeholder {
+
+    font-size: 4rem;
+
+}

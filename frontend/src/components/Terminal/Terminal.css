@@ -1,0 +1,23 @@
+.terminal {
+    margin-top: 40px;
+    padding: 24px;
+    border-radius: 16px;
+    background: #0b1120;
+    border: 1px solid rgba(0, 229, 255, 0.15);
+    font-family: "Courier New", monospace;
+}
+
+.terminal h3 {
+    color: var(--primary);
+    margin-bottom: 20px;
+}
+
+.terminal p {
+    color: #00ff88;
+    margin: 10px 0;
+}
+
+.prompt {
+    color: var(--primary);
+    font-weight: bold;
+}
